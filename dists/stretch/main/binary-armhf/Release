@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: homeassistant
+Label: homeassistant Github
+Architecture: armhf
+Description: Debian ARM packages hosted on homeassistant github repository
