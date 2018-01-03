@@ -6,8 +6,12 @@ echo "deb [trusted=yes] https://raw.githubusercontent.com/ludeeus/hassbian-confi
 sudo apt-get update
 ```
 ### Release notes
-**0.6.0** - Initial release
-**0.6.1** - Testing release notes  
-      - y  
-      - Y  
-      - y  
+**0.6.0**:  
+- Added dependencies for home-assistant upgrade  
+- Added fix for TRADFRI install script  
+- Added Appdeamon install script  
+- Adden DuckDNS install script  
+  
+  
+  
+  
