@@ -2,19 +2,19 @@ Origin: homeassistant
 Label: homeassistant Github
 Suite: stable
 Codename: stretch
-Date: Sat, 30 Dec 2017 19:52:00 UTC
+Date: Wed, 03 Jan 2018 00:10:34 UTC
 Architectures: armhf
 Components: main
 Description: Debian ARM packages hosted on homeassistant github repository
 MD5Sum:
- 783fd824ad28f732823a699460d65b74 1405 main/binary-armhf/Packages
- 205fbf52a2747f16d191615e807c0853 593 main/binary-armhf/Packages.gz
+ a6167eb7e04c39da144376ab6ad2b4c7 1409 main/binary-armhf/Packages
+ f40f09230f470f4088fed25696146307 595 main/binary-armhf/Packages.gz
  cbe2c2043f9cc88c095d23994fcb2274 177 main/binary-armhf/Release
 SHA1:
- 09c97b99815c95a1db792938a35d0aca55a1a29a 1405 main/binary-armhf/Packages
- a6ff5a018c093e5f5e01408961a3b0d7836052c3 593 main/binary-armhf/Packages.gz
+ 865821f1b1542c5de5d20e0b81993a7c8e8a41f4 1409 main/binary-armhf/Packages
+ 27b827e0290ef2257caa62dacefd08120798b7d5 595 main/binary-armhf/Packages.gz
  0296a6189f26bd00c8f35b66d6b0b527b1cea666 177 main/binary-armhf/Release
 SHA256:
- 103ae0aa91d4228202cdfd3a7ab95144a3124528a7f8867ce675553f2284e7f6 1405 main/binary-armhf/Packages
- 1a54e5698429c8d30e9db4607442d30bb72c7a1cfdb1fcd5f8ac96a8abbaa43f 593 main/binary-armhf/Packages.gz
+ 0c16d49f9d9f2bc6d4ee42254cf7ecf41ddf8b55ca9cc000a1e2836d67d5fc16 1409 main/binary-armhf/Packages
+ 9f5009ad6fdea74c91e69baa95deecc71a90f9126fd08f213b5995ebd65ea6c6 595 main/binary-armhf/Packages.gz
  bac86ebef09621c22fa9b012a6fa6e080200998b6297ab8a2a914c1c43db10d4 177 main/binary-armhf/Release
