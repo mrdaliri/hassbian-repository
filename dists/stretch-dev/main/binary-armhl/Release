@@ -1,0 +1,6 @@
+Archive: unstable
+Component: main
+Origin: homeassistant
+Label: homeassistant Github-dev
+Architecture: armhl
+Description: Debian ARM packages hosted on homeassistant github repository

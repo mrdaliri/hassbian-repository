@@ -1,0 +1,38 @@
+Origin: homeassistant
+Label: homeassistant Github-dev
+Suite: unstable
+Codename: stretch-dev
+Date: Wed, 03 Jan 2018 09:14:37 UTC
+Architectures: armhf armhl amd64
+Components: main
+Description: Debian ARM packages hosted on homeassistant github repository
+MD5Sum:
+ 87f03bc8d6cf719f9e50121841b81df4 714 main/binary-armhf/Packages
+ d5533fb89b4f11337c37a7fd91f13f3a 467 main/binary-armhf/Packages.gz
+ c9b6c0a1fa8dd63b0c72e60b2e115dad 183 main/binary-armhf/Release
+ 87f03bc8d6cf719f9e50121841b81df4 714 main/binary-armhl/Packages
+ d5533fb89b4f11337c37a7fd91f13f3a 467 main/binary-armhl/Packages.gz
+ 90c646dbd2146f1e76340498f8416262 183 main/binary-armhl/Release
+ 87f03bc8d6cf719f9e50121841b81df4 714 main/binary-amd64/Packages
+ d5533fb89b4f11337c37a7fd91f13f3a 467 main/binary-amd64/Packages.gz
+ 55c457200b48589373bd8f158071e3dd 183 main/binary-amd64/Release
+SHA1:
+ bd94317258a60cd65a1c1f7514fcd90be44de2ad 714 main/binary-armhf/Packages
+ 34ccb7b9f53efd33148e02abe48b0b4960068699 467 main/binary-armhf/Packages.gz
+ 7a8a6355df4d67abc822fe24988ced30cc9f1b85 183 main/binary-armhf/Release
+ bd94317258a60cd65a1c1f7514fcd90be44de2ad 714 main/binary-armhl/Packages
+ 34ccb7b9f53efd33148e02abe48b0b4960068699 467 main/binary-armhl/Packages.gz
+ f2121679fa0e08dca5a3887dd97705505da6f9b8 183 main/binary-armhl/Release
+ bd94317258a60cd65a1c1f7514fcd90be44de2ad 714 main/binary-amd64/Packages
+ 34ccb7b9f53efd33148e02abe48b0b4960068699 467 main/binary-amd64/Packages.gz
+ 693de08bcfc3a70cdb054e298d6879ebdd16443f 183 main/binary-amd64/Release
+SHA256:
+ 7d44f7a55c9c81d4c57dc3dfe744723db610a042f162787c7681c6d8f19ea865 714 main/binary-armhf/Packages
+ b7fb11629757a50e6cb3a0840764258ea22fd0c3083441117369b61ef329e306 467 main/binary-armhf/Packages.gz
+ e3fa7cbb1e9f08b83c79d9ae6c9fb4649ea7342b643907c26d639183b8e5ac47 183 main/binary-armhf/Release
+ 7d44f7a55c9c81d4c57dc3dfe744723db610a042f162787c7681c6d8f19ea865 714 main/binary-armhl/Packages
+ b7fb11629757a50e6cb3a0840764258ea22fd0c3083441117369b61ef329e306 467 main/binary-armhl/Packages.gz
+ 206887b865a602d92dff89ea2cc2bcaee9fd2162ed49c509c0adbcb2c3899a4d 183 main/binary-armhl/Release
+ 7d44f7a55c9c81d4c57dc3dfe744723db610a042f162787c7681c6d8f19ea865 714 main/binary-amd64/Packages
+ b7fb11629757a50e6cb3a0840764258ea22fd0c3083441117369b61ef329e306 467 main/binary-amd64/Packages.gz
+ b2886f1ed4297287fab75604d78a658c04c807f6f0e17d00fbdaa8537959654a 183 main/binary-amd64/Release

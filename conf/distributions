@@ -2,6 +2,15 @@ Origin: homeassistant
 Label: homeassistant Github
 Suite: stable
 Codename: stretch
-Architectures: armhf
+Architectures: armhf armhl amd64
 Components: main
 Description: Debian ARM packages hosted on homeassistant github repository
+
+Origin: homeassistant
+Label: homeassistant Github-dev
+Suite: unstable
+Codename: stretch-dev
+Architectures: armhf armhl amd64
+Components: main
+Description: Debian ARM packages hosted on homeassistant github repository
+
