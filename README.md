@@ -1,10 +1,11 @@
-Unofficial repo for installing hassbian-config (hassbian-script) with `sudo apt install hassbian-config`
+Unofficial repo for installing hassbian-config (hassbian-script) with `sudo apt install hassbian-scripts`
   
 For this to work you first need to run this:
 ```
-echo "deb [trusted=yes] https://raw.githubusercontent.com/ludeeus/hassbian-config/master stretch main" | sudo tee -a /etc/apt/sources.list
+echo "deb [trusted=yes] https://raw.githubusercontent.com/ludeeus/hassbian-repository/master stretch main" | sudo tee -a /etc/apt/sources.list
 sudo apt-get update
 ```
+
 ### Release notes
 **0.6**  
 [#62](https://github.com/home-assistant/hassbian-scripts/pull/62) Making sure wheel and setuptools are up to date [@ludeeus](https://github.com/ludeeus)  
