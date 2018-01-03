@@ -3,14 +3,14 @@ Architecture: all
 Maintainer: Fredrik Lindqvist <github.com/Landrash>
 Depends: bash, wget, git, python3, python3-venv, python3-pip, python3-dev, bluetooth, libbluetooth-dev, avahi-daemon, build-essential, libssl-dev, libffi-dev, python-dev, libudev-dev
 Homepage: www.home-assistant.io
-Version: 0.6.0
+Version: 0.6
 Priority: optional
 Section: utils
-Filename: pool/main/h/hassbian-scripts/hassbian-scripts_0.6.0_all.deb
-Size: 18206
-SHA256: 80128833b9383605656d9c81ee25d31566a3cb4a7d51dc8c548fddefc421107f
-SHA1: 3745d1cac9e96da4317594c65562a8ad3afb1ca3
-MD5sum: 4b0cafd9b8da1ff0bfa8b0f848fd4221
+Filename: pool/main/h/hassbian-scripts/hassbian-scripts_0.6_all.deb
+Size: 18222
+SHA256: 6c82b4d2d9fbb55fdd54510edb7c02c66377d7373fd7667e5eb8890500e4f5cc
+SHA1: 15423e5494f9a74dd11eeab8c20309e3fe5b60dc
+MD5sum: 9f249b4e90fe5498dd5551f4cc53aa85
 Description: HASSbian scripts
  A set of tools for installing and maintaining a HASSbian installation.
 

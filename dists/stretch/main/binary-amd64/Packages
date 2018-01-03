@@ -8,9 +8,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/h/hassbian-scripts/hassbian-scripts_0.6_all.deb
 Size: 18222
-SHA256: 7765d7cf515f9d0064d15ec204c70b2972d59151a18b9f58d48204785160cc12
-SHA1: 154df898fbdb9fb0271d4a0366b4aafe0798ad29
-MD5sum: de1fa42adfc04a18d1e15253b0333d3b
+SHA256: 6c82b4d2d9fbb55fdd54510edb7c02c66377d7373fd7667e5eb8890500e4f5cc
+SHA1: 15423e5494f9a74dd11eeab8c20309e3fe5b60dc
+MD5sum: 9f249b4e90fe5498dd5551f4cc53aa85
 Description: HASSbian scripts
  A set of tools for installing and maintaining a HASSbian installation.
 

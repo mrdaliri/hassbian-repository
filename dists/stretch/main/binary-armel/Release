@@ -2,5 +2,5 @@ Archive: stable
 Component: main
 Origin: Hassbian-config
 Label: Hassbian-config
-Architecture: amd64
+Architecture: armel
 Description: A set of tools for installing and maintaining a HASSbian installation.

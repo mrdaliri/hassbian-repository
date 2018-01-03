@@ -6,5 +6,6 @@ echo "deb [trusted=yes] https://raw.githubusercontent.com/ludeeus/hassbian-confi
 sudo apt-get update
 ```
 ### Release notes
+
 ****  
   
