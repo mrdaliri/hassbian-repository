@@ -1,16 +1,16 @@
 Package: hassbian-scripts
+Version: 0.7.0
 Architecture: all
-Maintainer: Fredrik Lindqvist <github.com/Landrash>
 Depends: bash, wget, git, python3, python3-venv, python3-pip, python3-dev, bluetooth, libbluetooth-dev, avahi-daemon, build-essential, libssl-dev, libffi-dev, python-dev, libudev-dev
+Maintainer: Fredrik Lindqvist <github.com/Landrash>
 Homepage: www.home-assistant.io
-Version: 0.6
 Priority: optional
 Section: utils
-Filename: pool/main/h/hassbian-scripts/hassbian-scripts_0.6_all.deb
-Size: 18222
-SHA256: 6c82b4d2d9fbb55fdd54510edb7c02c66377d7373fd7667e5eb8890500e4f5cc
-SHA1: 15423e5494f9a74dd11eeab8c20309e3fe5b60dc
-MD5sum: 9f249b4e90fe5498dd5551f4cc53aa85
+Filename: pool/main/h/hassbian-scripts/hassbian-scripts_0.7.0_all.deb
+Size: 20126
+SHA256: 208bbfe2de1a767609278597760e4db30c0fdd0817de0c67748104c34e11d5a7
+SHA1: 8393b68c1bfd844fa656bf4d707f63251fe18c9a
+MD5sum: d613d5f915d40c9690a8e4742800f20e
 Description: HASSbian scripts
  A set of tools for installing and maintaining a HASSbian installation.
 
