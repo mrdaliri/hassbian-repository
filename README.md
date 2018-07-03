@@ -1,4 +1,4 @@
-Unofficial repo for installing hassbian-config (hassbian-script) with `sudo apt install hassbian-scripts`
+Repository for hosting hassbian-config (hassbian-script) to make it installable with: `sudo apt install hassbian-scripts`
   
 For this to work you first need to run this:
 ```
