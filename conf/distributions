@@ -5,3 +5,11 @@ Codename: stretch
 Architectures: armhf armel amd64 i386
 Components: main
 Description: A set of tools for installing and maintaining a HASSbian installation.
+
+Origin: Hassbian-config
+Label: Hassbian-config
+Suite: stable
+Codename: buster
+Architectures: armhf armel amd64 i386
+Components: main
+Description: A set of tools for installing and maintaining a HASSbian installation.
