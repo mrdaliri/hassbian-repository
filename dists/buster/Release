@@ -1,7 +1,7 @@
 Origin: Hassbian-config
 Label: Hassbian-config
 Suite: stable
-Codename: stretch
+Codename: buster
 Date: Tue, 14 May 2019 12:56:09 UTC
 Architectures: armhf armel amd64 i386
 Components: main
